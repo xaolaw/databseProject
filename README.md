@@ -8,5 +8,5 @@ Dodatkowo w folderze src znajduje się plik server.js aby móc hostować bazę n
 connection = await oracledb.getConnection({ 
       user: "Twój użytkownik", 
       password: "Jego hasło", 
-      connectionString: "host/sid" });
+      connectionString: "localhost/xepdb1" });
 W repzytorium znajduje się plik wraz z komendami do bazy jakie należy wykonać

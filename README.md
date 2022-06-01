@@ -9,3 +9,4 @@ connection = await oracledb.getConnection({
       user: "Twój użytkownik", 
       password: "Jego hasło", 
       connectionString: "host/sid" });
+W repzytorium znajduje się plik wraz z komendami do bazy jakie należy wykonać

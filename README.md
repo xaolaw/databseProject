@@ -1,4 +1,5 @@
 # databseProject
-Skład Grupy: Mikołaj Bułka, Adam Ćwikła
-Projekt: Aplikacja desktopowa pokazująca terminy odjazdy pociągów wraz z możliwością zarezerwowania biletu
-Technologia: Oracle + Python framework PyQt
+Skład Grupy: Adam Ćwikła
+Projekt: Aplikacja webowa pokazująca terminy odjazdy pociągów wraz z możliwością zarezerwowania biletu
+Technologia: Oracle + React + serwer express
+

@@ -9,4 +9,5 @@ connection = await oracledb.getConnection({
       user: "Twój użytkownik", 
       password: "Jego hasło", 
       connectionString: "localhost/xepdb1" });
-W repzytorium znajduje się plik wraz z komendami do bazy jakie należy wykonać
+      Nietstey działa to tylko z oracle express.
+W repzytorium znajduje się plik wraz z komendami do bazy jakie należy wykonać.

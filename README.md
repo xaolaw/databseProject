@@ -1,4 +1,6 @@
 # databseProject
+Uwaga: aby zobaczyć kod źródłowy należy zmienić branch na master
+
 Skład Grupy: Adam Ćwikła
 Projekt: Aplikacja webowa pokazująca terminy odjazdy pociągów wraz z możliwością zarezerwowania biletu
 Technologia: Oracle + React + serwer express

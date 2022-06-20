@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.app-container{
+  max-width: 1500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 1px solid black;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: rgb(74, 147, 71);
+}
+.my-tickets{
+  padding: 30px;
+  max-width: 1500px;
+  min-height: 300px;
+  border: 1px solid black;
+  background-color: rgb(160, 173, 160);
+}
+.my-tickets-head{
+  text-align: center;
+  font-size: x-large;
+  font-style: italic;
+  background-color: brown;
+}
+.info-tickets-none{
+  text-align: center;
+  font-size: x-large;
+  font-style: italic;
+  color: red;
+}
